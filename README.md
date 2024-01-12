@@ -3,7 +3,7 @@
 ## Giáo viên hướng dẫn: Dương Ngọc Vân Khanh
 ## Sinh viên thực hiện: 
 ### Họ và tên: Nguyễn Hoàng Thương
-### Lớp DA21TTC
+### Lớp: DA21TTC
 ### MSSV:110121224
 ### SĐT: 0399077729
 ### gmail: nguyenhoangthuong825@gmail.com
